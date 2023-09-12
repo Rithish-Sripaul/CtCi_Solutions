@@ -1,3 +1,7 @@
+"""
+1_2: Given two strings, write a method to decide if one is a permutation of the other.
+"""
+
 # Confirming Questions:
 # 1. is it Case sensitive? -> is Abc different from Bac
 # 2. is whitespace significant? -> is "abc    " different from "bac"

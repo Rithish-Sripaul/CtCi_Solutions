@@ -1,5 +1,5 @@
 """
-1_1: 
+1_1: Implement an algorithm to determine if a string has all unique charachters. What if you cannot use adduitional data structures?
 """
 
 # Ask the interviewer if the string is of the format ASCII or Unicode
