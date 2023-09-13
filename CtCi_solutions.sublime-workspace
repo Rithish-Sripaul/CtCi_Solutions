@@ -27,12 +27,20 @@
 			"file": "Ch1_Arrays_and_Strings/1_1_isUnique.py",
 			"settings":
 			{
-				"buffer_size": 45,
+				"buffer_size": 1259,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			},
 			"undo_stack":
 			[
+				[
+					1,
+					1,
+					"revert",
+					null,
+					"AwAAAAAAAAAAAAAAAAAAAAAAAAAtAAAAaW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYKcHJpbnQodGYuX192ZXJzaW9uX18pAAAAAAAAAADrBAAAAAAAAAAAAAAAAAAAAAAAAOsEAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAtAAAAAAAAAC0AAAAAAAAAAAAAAAAA8L8"
+				]
 			]
 		}
 	],
@@ -176,7 +184,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 45,
+						"buffer_size": 1259,
 						"regions":
 						{
 						},
@@ -189,7 +197,10 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
